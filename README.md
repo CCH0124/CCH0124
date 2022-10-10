@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CCH0124</h1>
-<h3 align="center">A passionate frontend developer from Taiwan</h3>
+<h3 align="center">A passionate backend developer from Taiwan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cch0124&label=Profile%20views&color=0e75b6&style=flat" alt="cch0124" /> </p>
 
